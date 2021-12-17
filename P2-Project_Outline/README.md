@@ -28,32 +28,36 @@ users to the benefits of microgreens and attract new customers.
 
 ### Features
 <ol>
-A Web page:  Users will be provided with general information about microgreens 
+-A Web page:  Users will be provided with general information about microgreens 
 and specific information about the microgreens I am offering.
 
-Links:  Provide links to display nutritional value, recipes and how
+-Links:  Provide links to display nutritional value, recipes and how
 microgreens are grown.
 
-User Registry: Users will be able to register a profile so 
+-User Registry: Users will be able to register a profile so 
 they can create an account and become a member of My Microgreen Garden, 
 which enables them to receive my newsletter and be authorized to order for a delivery.
 
-User Login:  Once Users have submitted a profile, they will be able to login to their account using password authentication.
+-User Login:  Once Users have submitted a profile, they will be able to login to their account using password authentication.
 
-CRUD: Users will be able to Create, edit and delete items from
+-CRUD: Users will be able to Create, edit and delete items from
 their order.  Order history will be maintained.
 
-The distance to deliver will be determined by adding a location feature,
+-The distance to deliver will be determined by adding a location feature,
 to ensure that the delivery is within range.
 </ol>
 
 ### Technologies
 <ol>
-Java
-Spring Boot
-MySQL
-Thymeleaf templates
-Bootstrap
+ -Java
+
+ -Spring Boot
+
+ -MySQL
+
+ -Thymeleaf templates
+
+ -Bootstrap
 </ol>
 
 ### What I'll Have to Learn
