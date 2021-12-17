@@ -27,7 +27,7 @@ users to the benefits of microgreens and attract new customers.
 
 
 ### Features
-
+<ol>
 A Web page:  Users will be provided with general information about microgreens 
 and specific information about the microgreens I am offering.
 
@@ -45,15 +45,16 @@ their order.  Order history will be maintained.
 
 The distance to deliver will be determined by adding a location feature,
 to ensure that the delivery is within range.
-
+</ol>
 
 ### Technologies
+<ol>
 Java
 Spring Boot
 MySQL
 Thymeleaf templates
 Bootstrap
-
+</ol>
 
 ### What I'll Have to Learn
 
