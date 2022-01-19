@@ -19,6 +19,6 @@ You will need to upload a .PDF of your resume to this repo, or connect with your
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
 [Resume](https://github.com/metzmom/liftoff-assignments/blob/master/C1-Online_Profiles/Margie%20A%20Metz%20Launch%20Code%20Resume122921.pdf)
-
+[Resume2](file:///C:/Users/richa/Documents/LiftOff/liftoff-assignments/C1-Online_Profiles/Margie%20A%20Metz%20Launch%20Code%20Resume%20011822%20(1).pdf)
 > 
 > 
